@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>OEE Result</title>
+    <title>OEE Result and Defect Analysis</title>
 </head>
 <body>
     <h1>OEE Calculation Result</h1>
@@ -12,6 +12,13 @@
 
     <h2><strong>Overall OEE:</strong> {{ oee }}%</h2>
 
+    <h2>Production Defect Analysis</h2>
+
+    <p><strong>Total Defects:</strong> {{ total_defects }}</p>
+    <p><strong>Most Frequent Defect:</strong> {{ top_defect }}</p>
+    <p><strong>Top Defect Contribution:</strong> {{ top_defect_percentage }}%</p>
+
+    <br>
     <a href="/">Calculate Again</a>
 </body>
 </html>
