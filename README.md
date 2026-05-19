@@ -74,15 +74,5 @@ To develop a manufacturing performance dashboard that helps evaluate equipment e
 
 
 
-\## Suitable For
 
-
-
-\- Manufacturing Graduate Engineer Trainee (GET) roles
-
-\- Quality Engineering roles
-
-\- Production Engineering roles
-
-\- IT and Software Development roles
 
